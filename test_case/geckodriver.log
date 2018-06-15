@@ -1,0 +1,30 @@
+1529071289987	geckodriver	INFO	geckodriver 0.20.1
+1529071289993	geckodriver	INFO	Listening on 127.0.0.1:48447
+1529071290995	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dOEeUk4yHawm"
+1529071291996	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1529071294947	Marionette	INFO	Listening on port 41491
+1529071295028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1529071628622	geckodriver	INFO	geckodriver 0.20.1
+1529071628634	geckodriver	INFO	Listening on 127.0.0.1:52187
+1529071629635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YRHaBWkV9DTR"
+1529071630841	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1529071635320	Marionette	INFO	Listening on port 44937
+1529071635399	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529071776383	geckodriver	INFO	geckodriver 0.20.1
+1529071776401	geckodriver	INFO	Listening on 127.0.0.1:52585
+1529071777391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ABqj3BSsrBQ1"
+1529071778280	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1529071781280	Marionette	INFO	Listening on port 36661
+1529071781317	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unitt&json=1&p=3&sid=26525_1423_21103_20927&csor=5&pwd=unit&cb=jQuery110206592413463733189_1529071782518&_=1529071782524, line 1: TypeError: jQuery110206592413463733189_1529071782518 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unit&json=1&p=3&sid=26525_1423_21103_20927&csor=4&pwd=uni&cb=jQuery110206592413463733189_1529071782518&_=1529071782523, line 1: TypeError: jQuery110206592413463733189_1529071782518 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unittest&json=1&p=3&sid=26525_1423_21103_20927&csor=8&pwd=unittes&cb=jQuery110206592413463733189_1529071782518&_=1529071782527, line 1: TypeError: jQuery110206592413463733189_1529071782518 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unittes&json=1&p=3&sid=26525_1423_21103_20927&csor=7&pwd=unitte&cb=jQuery110206592413463733189_1529071782518&_=1529071782526, line 1: TypeError: jQuery110206592413463733189_1529071782518 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unitte&json=1&p=3&sid=26525_1423_21103_20927&csor=6&pwd=unitt&cb=jQuery110206592413463733189_1529071782518&_=1529071782525, line 1: TypeError: jQuery110206592413463733189_1529071782518 is not a function
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
